@@ -1,0 +1,29 @@
+My best project is A Website for a TV Series : "FRIENDS" which I have made during my 
+internship at Technical Coding Research (TCR) Innovation where I have worked as Frontend
+Web Developer Intern.
+
+Basic idea: 
+This project is all about the Tv series: FRIENDS which is the most popular series among 
+people. I got an idea to create this project to make people aware about the cast worked 
+in the series and also to advertise the series among youth because this series has 6 young 
+people who are and struggling to survive in the real world, find the companionship, comfort
+and support they get from each other to be the perfect antidote to the pressures of life. 
+
+Modules Description: 
+There is a home page created to view the trailer and live streaming of the series. This page
+is a basic introduction of the series. At the bottom I have created one overview where the
+links of Netflix and rating is given. It gives an idea to the people about the popularity
+of the series. 
+The next page is the about page of the cast who have worked in the series. Every cast details
+is mentioned in about page which is linked to the home page at the bottom.
+In the next page there is more information about the series is added and link to watch the
+best episodes is linked with the image so that people can click on the image to directly
+watch the episodes. 
+At last one voucher page also made so that people can sign in and get the code to watch the
+series at discount offer given in voucher.
+At the bottom all the official social media handles are given for more information.
+
+Technologies and platform used: HTML, CSS, JavaScript, VS Code.
+
+Entire source code: https://github.com/Sunidhimathur/Website-for-a-TV-Series-FRIENDS-
+View Project: https://sunidhimathur.github.io/Website-for-a-TV-Series-FRIENDS-/

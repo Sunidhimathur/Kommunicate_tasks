@@ -1,0 +1,18 @@
+If I start my own Software company I would choose Shreyash Chaudhary and Vansh Goyal as my
+partners to work in the company because I know it is a startup company and for its growth
+I need some capable and proficient in technical field. Also, I believe that leaning never stops
+and with my colleagues I will get to learn new things. My aim is to provide best softwares
+which can be easily accessible and user-friendly to the people. I am always willing to 
+innovate the new things which can improve the existing technology. 
+I choose Shreyash Chaudhary because he is proficient in Machine learning, Data Science,
+Python. Nowadays, these fields are in trending and in demand. Also, Machine learning 
+technology helps analyze the data and prepare features related to the business problem 
+in data preparation and A data scientist requires large amounts of data to develop 
+hypotheses, make inferences, and analyze customer and market trends. That's why, I chose him
+to work with today's market trends and data.
+Also, I chose Vansh Goyal because he is proficient in the field of Web development. He has a 
+strong knowledege and understanding of creating web applications and websites. He knows how 
+to create attractive designs and user-friendly websites using HTML, CSS, JavaScript. As a web
+developer he is good in problem solving and Troubleshooting website problems.
+My primary focus as a Frontend developer is to ensure the website is visually appealing and
+easy to navigate, provide better the website's performance and capacity.
