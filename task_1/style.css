@@ -1,0 +1,72 @@
+.box {
+    border: 3px solid #2DD35C;
+    border-radius: 2px 264px 10px 0px;
+    height: 280px;
+    width: 950px;
+    margin: 215px 0px 0px 150px;
+    border-left: 0px !important;
+    cursor: pointer;
+    }
+
+    .box::before {
+        position: relative;
+        bottom: 15%;
+        display: block;
+        height: 130%;
+        content: ' ';
+        border-left: 4px solid black;
+    }
+
+    .box1 {
+        border: auto;
+        background-color: #5553b761;
+        border-radius: 190px 0px 0px 10px;
+        height: 190px;
+        width: 600px;
+        margin: -230px 0px 0px 800px;
+        position: absolute;
+        z-index: -5;
+        }
+
+    .box h2.txt1 {
+        font-family: 'Mulish', sans-serif;
+        font-size: 40px;
+        margin: -300px 0px 0px 140px;
+    }
+
+    .box h2.txt2 {
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 40px;
+        margin: -15px 0px 0px 140px;
+        color: #5553B7;
+    }
+
+    .box button {
+        border: none;
+        color: white;
+        display: inline-block;
+        font-size: 12px;
+        margin: 25px 0px 0px 140px;
+        height: 36px;
+        width: 132px;
+        border-radius: 20px; 
+    }
+
+    .box button.button-button1 {
+        cursor: pointer;
+        background-color: #2DD35C;
+        font-size: medium;
+        font-weight: bolder;
+        font-family: 'Mulish', 'Quicksand', 'Yu Gothic UI Semibold';
+    }
+
+    .box button.button-button2 {
+        cursor: pointer;
+        color: #5553B7;
+        border: 2px solid #5553B7;
+        margin-left: 10px;
+        background-color: white;
+        font-size: medium;
+        font-weight: bolder;
+        font-family:'Arial', Helvetica, sans-serif;
+    }
